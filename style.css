@@ -20,6 +20,7 @@ body{
     .button, button, input[type='button'], input[type='reset'], input[type='submit'] {
       background-color: #712113;
       border: 0.1rem solid #000000;
+       color: #712113;
       border-radius: 0.4rem;
       color: #fff;
       cursor: pointer;
